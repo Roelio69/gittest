@@ -1,0 +1,10 @@
+Dit is een test bestandje voor github
+
+via de shell kun je deze:
+
+git add . 
+(of <naam_bestand>)
+
+git commit -am "commit_titel"
+
+git push
